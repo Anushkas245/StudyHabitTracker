@@ -11,29 +11,6 @@ A personal study habit tracker built with Streamlit that helps you stay consiste
 - **Responsive Design**: Works on desktop and mobile devices
 - **Data Persistence**: All data is saved locally in a CSV file
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Python 3.8 or higher
-- pip (Python package installer)
-
-### Installation
-
-1. Clone this repository or download the files
-2. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-### Running the Application
-
-1. Navigate to the project directory
-2. Run the Streamlit app:
-   ```bash
-   streamlit run app.py
-   ```
-3. Open your browser and go to `http://localhost:8501`
 
 ## 📊 Features in Detail
 
@@ -72,6 +49,4 @@ You can customize the following in the `app.py` file:
 
 Feel free to submit issues and enhancement requests.
 
-## 📜 License
 
-This project is licensed under the MIT License.
